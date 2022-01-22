@@ -1,0 +1,25 @@
+body {
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    background-color:lightblue;
+}
+
+.header_div {
+    color:green;
+}
+
+.header_div p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    font-size:10px;
+}
+
+.main_div button {
+    margin-top:10px;
+}
+
+.copy_right_footer {
+    width:100%;
+    font-size:15px;
+}
+
